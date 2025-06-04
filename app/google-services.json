@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001303951563",
+    "project_id": "healthapp-564c2",
+    "storage_bucket": "healthapp-564c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001303951563:android:ee0d512e6120839677f34e",
+        "android_client_info": {
+          "package_name": "br.com.fiap.health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByg9yUbCvxnA0VpxRBd5D8PcdKHqDCjCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
